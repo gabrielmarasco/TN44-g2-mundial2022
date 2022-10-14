@@ -1,0 +1,23 @@
+{
+  "name": "grupo2-mundial2022",
+  "version": "1.0.0",
+  "description": "Grupo 2 - Mundial 2022 - DH",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmarasco/TN44-g2-mundial2022.git"
+  },
+  "author": "Grupo 2 DH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielmarasco/TN44-g2-mundial2022/issues"
+  },
+  "homepage": "https://github.com/gabrielmarasco/TN44-g2-mundial2022#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
